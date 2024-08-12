@@ -1,0 +1,29 @@
+/* 
+    Created on : Dec 12, 2023
+    Author     : Jesse
+*/
+
+.box {
+    display: inline-block;
+    width: fit-content;
+    height: fit-content;
+    border: 5px;
+    background-color: lightblue;
+}
+
+.error {
+    color: #FF0000;
+}
+
+.formbox {
+    margin: 5px;
+}
+
+.gallerybox {
+    display: inline-block;
+    width: fit-content;
+    height: 320px;
+    margin: 20px;
+}
+
+
